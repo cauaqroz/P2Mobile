@@ -45,26 +45,26 @@
 
 ## Questões objetivas (Testes) 
  
-### 2.  Qual  é  a  principal  razão  para  o  uso  da  linguagem  Kotlin  no desenvolvimento de aplicativos Android? 
+#### 2.  Qual  é  a  principal  razão  para  o  uso  da  linguagem  Kotlin  no desenvolvimento de aplicativos Android? 
 > c) Kotlin oferece concisão, segurança de tipo e interoperabilidade com o Java 
  
-### 3.  O que é o Android SDK? 
+#### 3.  O que é o Android SDK? 
 > c) Um conjunto de ferramentas de desenvolvimento para Android 
  
-###  4.  Qual é a principal função do arquivo AndroidManifest.xml em um projeto Android? 
+#### 4.  Qual é a principal função do arquivo AndroidManifest.xml em um projeto Android? 
 > b) Especificar as permissões necessárias para o aplicativo 
  
-### 5.  O que é o Gradle no contexto do desenvolvimento Android? 
+#### 5.  O que é o Gradle no contexto do desenvolvimento Android? 
 > d) Uma ferramenta de automação de construção e gerenciamento de dependências 
  
-### 6.  Qual é o propósito do componente Activity no Android? 
+#### 6.  Qual é o propósito do componente Activity no Android? 
 > b) Representar a interface do usuário e interagir com o usuário 
  
-### 7.  O que é o Android Emulator no Android Studio? 
+#### 7.  O que é o Android Emulator no Android Studio? 
 > c) Um ambiente virtual que emula um dispositivo Android 
 
-### 8.  O  que  é  o  Android  SharedPreferences  e  como  ele  é  utilizado  para armazenar dados em um aplicativo Kotlin? 
+#### 8.  O  que  é  o  Android  SharedPreferences  e  como  ele  é  utilizado  para armazenar dados em um aplicativo Kotlin? 
 > d) Uma maneira de armazenar dados simples de forma persistente usando pares chave-valor 
  
-### 9.   Qual é a principal diferença entre setOnClickListener e setOnLongClickListener em um botão Android com Kotlin? 
+#### 9.   Qual é a principal diferença entre setOnClickListener e setOnLongClickListener em um botão Android com Kotlin? 
 > a)  setOnClickListener  é  usado  para  cliques  curtos,  enquanto setOnLongClickListener é usado para cliques longos
